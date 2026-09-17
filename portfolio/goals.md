@@ -1,1 +1,1 @@
-My goal for this month is to improve my Git and Githubskills.
+My goal for this month is to improve my Git and Github skills.
